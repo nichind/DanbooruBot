@@ -1,0 +1,109 @@
+{
+  "new-guild-header-RU": "",
+
+  "loading-RU": "⏳ Загрузка...",
+  "loading-EN": "⏳ Loading...",
+
+  "refresh-RU": "Найти новый пост",
+  "refresh-EN": "Search for new post",
+
+  "add-favorite-RU": "В Избранные",
+  "add-favorite-EN": "Add to Favorites",
+
+  "transition-to-RU": "⏳ Переход к **{}**",
+  "transition-to-EN": "⏳ Go to **{}**",
+
+  "fav-first-added-RU": "Вы успешно добавили **{id}** в Избранные. Посмотреть свои Избранные: {favorites}",
+  "fav-first-added-EN": "You have successfully added **{id}** to favorites. To view your Favorites: {favorites}",
+
+  "fav-sucessfully-added-RU": "Вы успешно добавили **{id}** в Избранные.",
+  "fav-sucessfully-added-EN": "You have successfully added **{id}** to Favorites.",
+
+  "fav-already-in-RU": "**{id}** Уже находится в ваших Избранных!",
+  "fav-already-in-EN": "**{id}** is already in your Favorites!",
+
+  "since-channel-not-nsfw-random-RU": "т.к. канал **не NSFW** а поиск имеет фильтр **{filter}** итог поиска виден только вам.",
+  "since-channel-not-nsfw-random-EN": "Since the channel **is not NSFW** and the search has a filter of **{filter}**, the search result is only visible to you.",
+
+  "since-channel-not-nsfw-RU": "т.к. канал **не NSFW** а арт имеет рейтинг **{rating}** итог поиска виден только вам.",
+  "since-channel-not-nsfw-EN": "Since the channel **is not NSFW** and the art has a rating of **{rating}**, the search result is only visible to you.",
+
+  "post-not-found-RU": "Не получилось найти пост **{}**. Проверьте ID.",
+  "post-not-found-EN": "Could not find post **{}**. Please check the ID.",
+
+  "member-private-RU": "Пользователь **{}** скрыл свой профиль.",
+  "member-private-EN": "User **{}** made their profile private.",
+
+  "now-private-RU": "Ваш профиль теперь **приватный**. Никто не может посмотреть ваши избранные.",
+  "now-private-EN": "Your profile is now **private**. No one can see your favorites.",
+
+  "now-public-RU": "Ваш профиль теперь **публичный**. Кто угодно может посмотреть ваши избранные.",
+  "now-public-EN": "Your profile is now **public**. Anyone can see your favorites.",
+
+  "placeholder-select-page-RU": "Выберите страницу.",
+  "placeholder-select-page-EN": "Select page.",
+
+  "left-RU": "<",
+  "left-EN": "<",
+
+  "right-RU": ">",
+  "right-EN": ">",
+
+  "unfavorite-RU": "Удалить",
+  "unfavorite-EN": "Delete",
+
+  "page-RU": "Страница {}",
+  "page-EN": "Page {}",
+
+  "original-RU": "Оригинал",
+  "original-EN": "Original",
+
+  "filter-RU": "*NSFW: {}*",
+  "filter-EN": "*NSFW: {}*",
+
+  "art-rating-RU": "Рейтинг: **{}**",
+  "art-rating-EN": "Rating: **{}**",
+
+  "art-artist-RU": "Автор: `{}`",
+  "art-artist-EN": "Artist: `{}`",
+
+  "art-characters-RU": "Персонаж(и): `{}`",
+  "art-characters-EN": "Character('s): `{}`",
+
+  "art-copyright-RU": "Серия: `{}`",
+  "art-copyright-EN": "Copyright: `{}`",
+
+  "art-source-RU": "Источник",
+  "art-source-EN": "Source",
+
+  "invite-button-RU": "Инвайт",
+  "invite-button-EN": "Invite",
+
+  "support-button-RU": "Саппорт сервер",
+  "support-button-EN": "Support Server",
+
+  "my-invite-RU": "Мой инвайт: {invite}\nСаппорт сервер: {support}",
+  "my-invite-EN": "My invite: {invite}\nSupport server: {support}",
+
+  "changed-lang-to-RU-RU": "Вы успешно выбрали **Русский** язык.",
+  "changed-lang-to-EN-EN": "You have successfully chosen the **English** language.",
+
+  "no-permission-button-RU": "У вас нет прав для нажатия этой кнопки.",
+  "no-permission-button-EN": "You don't have permission to press this button.",
+
+  "channel-is-not-nsfw-RU": "Данный канал не **NSFW**, невозможно выполнить поиск с включенным фильтром.",
+  "channel-is-not-nsfw-EN": "This channel is not **NSFW**, it is not possible to perform a search with the filter enabled.",
+
+  "error-command-not-found-RU": "Команда не найдена...",
+  "error-command-not-found-EN": "That command wasn't found...",
+  "error-no-permission-RU": "У вас недостаточно прав для выполнения этой команды!",
+  "error-no-permission-EN": "You don't have the permissions to do that!",
+  "error-bot-no-perms-RU": "У меня недостаточно прав для выполнения этой команды",
+  "error-bot-no-perms-EN": "I don't have the permissions to do that!",
+  "error-user-not-found-RU": "Пользователь не найден, укажите действительного пользователя!",
+  "error-user-not-found-EN": "Member not found, Please mention a valid user!",
+  "error-command-on-cooldown-RU": "Подождите **{}** секунд, прежде чем вы сможете выполнить эту команду снова!",
+  "error-command-on-cooldown-EN": "Wait **{}** seconds until you can run this command again!",
+  "error-unknown-RU": "Произошла неизвестная ошибка...\n{}",
+  "error-unknown-EN": "An unknown error occurred..\n{}"
+}
