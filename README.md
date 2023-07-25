@@ -1,5 +1,5 @@
 # If you want to use it, mention me in the bot description.
-# Previev
+# Preview
 ![image](https://github.com/nichind/DanbooruBot/assets/77118710/47bc36e3-b259-4df6-b50e-d6d34f87612f)
 ![image](https://github.com/nichind/DanbooruBot/assets/77118710/f88f7454-d2e5-42d1-bcfd-002429d45c62)
 ![image](https://github.com/nichind/DanbooruBot/assets/77118710/81161177-3a86-4cfa-bb09-ec6e410610df)
